@@ -16,6 +16,9 @@ public class MainServer {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Server server = new Server();
+        server.receive();
     }
     
 }
