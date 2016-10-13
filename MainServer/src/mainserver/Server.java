@@ -23,7 +23,8 @@ public class Server {
 
     public void receive() {
         connection();
-       
+      
+        closeConnection();
     }
 
     public void connection() {
@@ -49,6 +50,16 @@ public class Server {
             System.exit(-1);
         }
 
+    }
+    
+    public void closeConnection() {
+        try {
+            clientSocket.close();
+            serverSocket.close();
+        } catch (IOException e) {
+            System.out.println("Could not close");
+            System.exit(-1);
+        }
     }
     
 }
