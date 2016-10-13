@@ -10,6 +10,8 @@ import java.io.ObjectInputStream;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 
 /**
  *
@@ -34,6 +36,10 @@ public class Server {
             System.out.println("Could not listen on port: 8080");
             System.exit(-1);
         }
+        
+        Calendar now = Calendar.getInstance();
+        SimpleDateFormat formatter = new SimpleDateFormat("E yyyy.MM.dd 'at' hh:mm:ss a zzz");
+        System.out.println("It is now : " + formatter.format(now.getTime()));
 
         try {
             clientSocket = serverSocket.accept();
