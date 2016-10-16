@@ -16,9 +16,12 @@ public class MainServer {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        while(true){
         Server server = new Server();
-        server.receive();
+        server.establishContact();
+        server.getMessage();
+        server.closeConnection();
+        }
     }
     
 }
