@@ -15,13 +15,17 @@ public class MainServer {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        while(true){
+        //should be called in a new thread
+        while (true) {
+            receiveDataFromClient();
+        }
+    }
+
+    public static void receiveDataFromClient() {
         Server server = new Server();
         server.establishContact();
         server.getMessage();
         server.closeConnection();
-        }
     }
-    
+
 }
