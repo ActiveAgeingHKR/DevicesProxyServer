@@ -20,7 +20,7 @@ public class Server {
     ServerSocket serverSocket = null;
     Socket clientSocket = null;
     BufferedReader bufferedReaderInput = null;
-
+    boolean listening = true;
     public void establishContact() {
 //        try {
 //            serverSocket = new ServerSocket(PORT);
@@ -28,6 +28,8 @@ public class Server {
 //        } catch (Exception e) {
 //            e.printStackTrace();
 //        }
+        
+         
         
          try {
              serverSocket = new ServerSocket(PORT);
@@ -42,6 +44,7 @@ public class Server {
              System.out.println("Accept failed: 8080");
              System.exit(-1);
          }
+         
 
     }
 
@@ -77,4 +80,5 @@ public class Server {
             e.printStackTrace();
         }
     }
+        
 }

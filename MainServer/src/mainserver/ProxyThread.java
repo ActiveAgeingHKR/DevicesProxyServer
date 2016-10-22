@@ -18,12 +18,30 @@ import java.net.Socket;
  * @author wasim
  */
 public class ProxyThread extends Thread {
-        private Socket socket = null;
+
+    private Socket socket = null;
     private static final int BUFFER_SIZE = 32768;
+
     public ProxyThread(Socket socket) {
         super("ProxyThread");
         this.socket = socket;
     }
 
-    
+    public void run() {
+        try {
+            OutputStream out = socket.getOutputStream();
+            InputStream in = socket.getInputStream();
+            PrintWriter pw = new PrintWriter(out, true);
+            BufferedReader br = new BufferedReader(new InputStreamReader(in));
+            while (true) {
+                String str = br.readLine();
+                System.out.println("Reciving from client : " + str);
+                pw.println("Message from server : " + str);
+            }
+        } catch (IOException e) {
+            System.out.println(e);
+        }
+        //closeConnection();
+    }
+
 }
