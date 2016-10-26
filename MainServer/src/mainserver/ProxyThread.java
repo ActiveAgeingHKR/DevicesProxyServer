@@ -29,19 +29,28 @@ public class ProxyThread extends Thread {
 
     public void run() {
         try {
-            OutputStream out = socket.getOutputStream();
-            InputStream in = socket.getInputStream();
-            PrintWriter pw = new PrintWriter(out, true);
-            BufferedReader br = new BufferedReader(new InputStreamReader(in));
-            while (true) {
-                String str = br.readLine();
-                System.out.println("Reciving from client : " + str);
-                pw.println("Message from server : " + str);
-            }
-        } catch (IOException e) {
-            System.out.println(e);
+            BufferedReader bufferedReaderInput = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            String message = bufferedReaderInput.readLine();
+            System.out.println(message);
+            bufferedReaderInput.close();
+            socket.close();
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-        //closeConnection();
+//        try {
+//            OutputStream out = socket.getOutputStream();
+//            InputStream in = socket.getInputStream();
+//            PrintWriter pw = new PrintWriter(out, true);
+//            BufferedReader br = new BufferedReader(new InputStreamReader(in));
+//            while (true) {
+//                String str = br.readLine();
+//                System.out.println("Reciving from client : " + str);
+//                pw.println("Message from server : " + str);
+//            }
+//        } catch (IOException e) {
+//            System.out.println(e);
+//        }
+//        closeConnection();
     }
 
 }

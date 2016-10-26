@@ -47,8 +47,8 @@ public class MainServer {
     public static void receiveDataFromClient() throws IOException {
         Server server = new Server();
         server.establishContact();
-        server.getMessage();         
-        server.closeConnection();      
+        //server.getMessage();         
+        //server.closeConnection();      
     
     }
 

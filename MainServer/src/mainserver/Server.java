@@ -34,12 +34,14 @@ public class Server {
          try {
              serverSocket = new ServerSocket(PORT);
          } catch (IOException e) {
+             e.printStackTrace();
              System.out.println("Could not listen on port: 12345");
              System.exit(-1);
          }
  
          try {
              clientSocket = serverSocket.accept();
+            // new ProxyThread(clientSocket).start();
          } catch (IOException e) {
              System.out.println("Accept failed: 8080");
              System.exit(-1);
@@ -48,7 +50,7 @@ public class Server {
 
     }
 
-    public void getMessage() {
+//    public void getMessage() {
 //        try {
 //            bufferedReaderInput = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 //            String message = bufferedReaderInput.readLine();
@@ -56,29 +58,29 @@ public class Server {
 //        } catch (Exception e) {
 //            e.printStackTrace();
 //        }
-        try {
-            OutputStream out = clientSocket.getOutputStream();
-            InputStream in = clientSocket.getInputStream();
-            PrintWriter pw = new PrintWriter(out, true);
-            BufferedReader br = new BufferedReader(new InputStreamReader(in));
-            while (true) {
-                String str = br.readLine();
-                System.out.println("Reciving from client : " + str);
-                pw.println("Message from server : " + str);
-            }
-        } catch (IOException e) {
-            System.out.println(e);
-        }
-    }
+////        try {
+////            OutputStream out = clientSocket.getOutputStream();
+////            InputStream in = clientSocket.getInputStream();
+////            PrintWriter pw = new PrintWriter(out, true);
+////            BufferedReader br = new BufferedReader(new InputStreamReader(in));
+////            while (true) {
+////                String str = br.readLine();
+////                System.out.println("Reciving from client : " + str);
+////                pw.println("Message from server : " + str);
+////            }
+////        } catch (IOException e) {
+////            System.out.println(e);
+////        }
+//    }
     
-        public void closeConnection() {
-        try {
-            clientSocket.close();
-            serverSocket.close();
-            bufferedReaderInput.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+//        public void closeConnection() {
+//        try {
+//            clientSocket.close();
+//            serverSocket.close();
+//            bufferedReaderInput.close();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//    }
         
 }
