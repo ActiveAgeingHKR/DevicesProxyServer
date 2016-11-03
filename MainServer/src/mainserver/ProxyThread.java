@@ -5,12 +5,6 @@
  */
 package mainserver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
-import java.io.PrintWriter;
 import java.net.Socket;
 
 /**
@@ -20,7 +14,6 @@ import java.net.Socket;
 public class ProxyThread extends Thread {
 
     private Socket socket ;
-    private static final int BUFFER_SIZE = 32768;
 
     public ProxyThread(Socket socket) {
         super("ProxyThread");
@@ -28,36 +21,7 @@ public class ProxyThread extends Thread {
     }
 
     public void run() {
-        try {
-            BufferedReader bufferedReaderInput = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-            String message = bufferedReaderInput.readLine();
-            System.out.println("message from client::>"+message);
-            
-                
-            bufferedReaderInput.close();
-            
-            //socket.close();
-        
-        } catch (IOException ex) {
-           // e.printStackTrace();
-            System.out.println(ex);
-            System.out.println("Problem in message reading");
-
-        }
-//        try {
-//            OutputStream out = socket.getOutputStream();
-//            InputStream in = socket.getInputStream();
-//            PrintWriter pw = new PrintWriter(out, true);
-//            BufferedReader br = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-//            while (true) {
-//                String str = br.readLine();
-//                System.out.println("Reciving from client : " + str);
-//                //pw.println("Message from server : " + str);
-//            }
-//        } catch (IOException ex) {
-//            System.out.println(ex);
-//        }
-        //closeConnection();
+        System.out.println(Server.getMessage(socket));
     }
 
 }
