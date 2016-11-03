@@ -24,6 +24,7 @@ public void run() {
             }
         } catch (IOException e) {
             System.out.println(e);
+            System.out.println("connetion lost");
         }
         //closeConnection();
     }
