@@ -41,9 +41,10 @@ public class Server {
  
          try {
              clientSocket = serverSocket.accept();
-            // new ProxyThread(clientSocket).start();
+            
          } catch (IOException e) {
-             System.out.println("Accept failed: 8080");
+             e.printStackTrace();
+             System.out.println("Accept failed: 12345");
              System.exit(-1);
          }
          

@@ -16,15 +16,25 @@ public class MainServer {
 
     /**
      * @param args the command line arguments
+     * @throws java.io.IOException
      */
-   
-      
+    
+      private static ServerSocket serverSocket ;
     public static void main(String[] args) throws IOException {
-        ServerSocket serverSocket = null;
-        boolean listening = true; 
-        int port =12345;	//default    
-                 
-      
+       
+        
+        boolean listening = true;
+        int port = 12345;	//default    
+        
+        
+        try {
+            port = Integer.parseInt(args[0]);
+        } catch (Exception e) {
+            //ignore me
+            
+        }
+
+
         try {
             serverSocket = new ServerSocket(port);
             System.out.println("Started on: " + port);
@@ -35,13 +45,14 @@ public class MainServer {
 
         while (listening) {
             new ProxyThread(serverSocket.accept()).start();
+
         }
         //should be called in a new thread 
-         while (true) {
-            receiveDataFromClient();
-           
-        } 
-       
+//         while (true) {
+//            receiveDataFromClient();
+//           
+//        } 
+        serverSocket.close();
     }
 
     public static void receiveDataFromClient() throws IOException {
@@ -49,7 +60,7 @@ public class MainServer {
         server.establishContact();
         //server.getMessage();         
         //server.closeConnection();      
-    
+
     }
 
 }

@@ -19,7 +19,7 @@ import java.net.Socket;
  */
 public class ProxyThread extends Thread {
 
-    private Socket socket = null;
+    private Socket socket ;
     private static final int BUFFER_SIZE = 32768;
 
     public ProxyThread(Socket socket) {
@@ -31,26 +31,33 @@ public class ProxyThread extends Thread {
         try {
             BufferedReader bufferedReaderInput = new BufferedReader(new InputStreamReader(socket.getInputStream()));
             String message = bufferedReaderInput.readLine();
-            System.out.println(message);
+            System.out.println("message from client::>"+message);
+            
+                
             bufferedReaderInput.close();
-            socket.close();
-        } catch (Exception e) {
-            e.printStackTrace();
+            
+            //socket.close();
+        
+        } catch (IOException ex) {
+           // e.printStackTrace();
+            System.out.println(ex);
+            System.out.println("Problem in message reading");
+
         }
 //        try {
 //            OutputStream out = socket.getOutputStream();
 //            InputStream in = socket.getInputStream();
 //            PrintWriter pw = new PrintWriter(out, true);
-//            BufferedReader br = new BufferedReader(new InputStreamReader(in));
+//            BufferedReader br = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 //            while (true) {
 //                String str = br.readLine();
 //                System.out.println("Reciving from client : " + str);
-//                pw.println("Message from server : " + str);
+//                //pw.println("Message from server : " + str);
 //            }
-//        } catch (IOException e) {
-//            System.out.println(e);
+//        } catch (IOException ex) {
+//            System.out.println(ex);
 //        }
-//        closeConnection();
+        //closeConnection();
     }
 
 }
