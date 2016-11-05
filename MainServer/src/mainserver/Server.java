@@ -22,8 +22,10 @@ public class Server {
     private Server() {
         try {
             serverSocket = new ServerSocket(PORT);
+            
         } catch (IOException ex) {
             Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
+            System.out.println("Could not listen on port: 12345");
         }
     }
 
@@ -37,10 +39,11 @@ public class Server {
     public Socket establishContact() {
         Socket clientSocket = null;
         try {
-            System.out.println(serverSocket.getLocalPort());
+            System.out.println("Started on port ::> " +serverSocket.getLocalPort());
             clientSocket = serverSocket.accept();
         } catch (Exception e) {
             e.printStackTrace();
+            System.out.println("Accept failed: 12345");
         }
         return clientSocket;
     }
@@ -50,8 +53,10 @@ public class Server {
         try {
             BufferedReader bufferedReaderInput = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
             message = bufferedReaderInput.readLine();
-        } catch (Exception e) {
+        } catch (IOException e) {
+            System.out.print(e);
             e.printStackTrace();
+            System.out.println("couldn,t recieve messages");
         }
         return message;
     }
