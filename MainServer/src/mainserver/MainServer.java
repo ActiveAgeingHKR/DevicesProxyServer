@@ -18,9 +18,8 @@ public class MainServer {
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
-//        while (true) {
-//            new ProxyThread(Server.getInstance().establishContact()).start();
-//        }
-        Server.postIncidentToMainServer("");
+        while (true) {
+            new ProxyThread(Server.getInstance().establishContact()).start();
+        }
     }
 }

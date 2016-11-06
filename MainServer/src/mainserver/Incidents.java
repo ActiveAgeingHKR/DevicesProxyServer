@@ -6,7 +6,6 @@
 package mainserver;
 
 import java.io.Serializable;
-import java.util.Date;
 
 
 public class Incidents implements Serializable {
@@ -61,5 +60,19 @@ public class Incidents implements Serializable {
 
     public void setInNotes(String inNotes) {
         this.inNotes = inNotes;
+    }
+
+    /**
+     * @return the customersCuId
+     */
+    public Customers getCustomersCuId() {
+        return customersCuId;
+    }
+
+    /**
+     * @param customersCuId the customersCuId to set
+     */
+    public void setCustomersCuId(Customers customersCuId) {
+        this.customersCuId = customersCuId;
     }
 }
