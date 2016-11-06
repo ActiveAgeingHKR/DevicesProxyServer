@@ -21,7 +21,8 @@ public class ProxyThread extends Thread {
     }
 
     public void run() {
-        System.out.println(Server.getMessage(socket));
+        String jsonIncident = Server.getMessage(socket);
+        Server.postIncidentToMainServer(jsonIncident);
     }
 
 }

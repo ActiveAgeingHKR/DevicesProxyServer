@@ -5,61 +5,61 @@
  */
 package mainserver;
 
-/**
- *
- * @author wasim
- */
-public class Incidents {
-    
-    private int customerID;
-    private String severity;
-    private int time;
-    private String notes;
+import java.io.Serializable;
+import java.util.Date;
 
-    public Incidents(int customerID){
-        this.customerID = customerID;
 
+public class Incidents implements Serializable {
+
+    private Integer inId;
+    private String inTime;
+    private String inSeverity;
+    private String inNotes;
+    private Customers customersCuId;
+
+    public Incidents() {
     }
 
-    public int getCustomerID(){
-
-        return customerID;
+    public Incidents(Integer inId) {
+        this.inId = inId;
     }
 
-    public void setCustomerID(int customerID) {
-
-        this.customerID = customerID;
+    public Incidents(Integer inId, String inTime, String inSeverity, Customers customer) {
+        this.inId = inId;
+        this.inTime = inTime;
+        this.inSeverity = inSeverity;
+        this.customersCuId = customer;
     }
 
-    public String getSeverity() {
-
-        return severity;
+    public Integer getInId() {
+        return inId;
     }
 
-    public void setSeverity(String severity) {
-
-        this.severity = severity;
+    public void setInId(Integer inId) {
+        this.inId = inId;
     }
 
-    public int getTime() {
-
-        return time;
+    public String getInTime() {
+        return inTime;
     }
 
-    public void setTime(int time) {
-
-        this.time = time;
+     public void setInTime(String inTime) {
+        this.inTime = inTime;
     }
 
-    public String getNotes() {
-
-        return notes;
+    public String getInSeverity() {
+        return inSeverity;
     }
 
-    public void setNotes(String notes) {
+    public void setInSeverity(String inSeverity) {
+        this.inSeverity = inSeverity;
+    }
 
-        this.notes = notes;
+    public String getInNotes() {
+        return inNotes;
+    }
+
+    public void setInNotes(String inNotes) {
+        this.inNotes = inNotes;
     }
 }
-    
-

@@ -17,10 +17,10 @@ public class MainServer {
      * @param args the command line arguments
      * @throws java.io.IOException
      */
-
     public static void main(String[] args) throws IOException {
-        while (true) {
-            new ProxyThread(Server.getInstance().establishContact()).start();
-        }
+//        while (true) {
+//            new ProxyThread(Server.getInstance().establishContact()).start();
+//        }
+        Server.postIncidentToMainServer("");
     }
 }
