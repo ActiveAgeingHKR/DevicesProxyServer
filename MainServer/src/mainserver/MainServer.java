@@ -6,6 +6,9 @@
 package mainserver;
 
 import java.io.IOException;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
 
 /**
  *
@@ -13,11 +16,16 @@ import java.io.IOException;
  */
 public class MainServer {
 
+    public static final int HEARTBEAT_PERIOD = 30; //seconds
+
     /**
      * @param args the command line arguments
      * @throws java.io.IOException
      */
     public static void main(String[] args) throws IOException {
+        ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
+        scheduler.scheduleAtFixedRate(new HeartbeatToMainTask(), 0, HEARTBEAT_PERIOD, TimeUnit.SECONDS);
+        
         while (true) {
             new ProxyThread(Server.getInstance().establishContact()).start();
         }

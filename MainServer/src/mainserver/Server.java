@@ -80,7 +80,7 @@ public class Server {
         }
     }
 
-    public static void heartbeatMain() {
+    public static void heartbeatToMain() {
         try {
             HttpClient httpClient = HttpClientBuilder.create().build();
             HttpPost post = new HttpPost(HEARTBEAT_URL);
