@@ -1,0 +1,66 @@
+nov 21, 2016 7:17:00 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:17.2"}
+nov 21, 2016 7:17:01 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:18.198"}
+nov 21, 2016 7:17:02 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:19.201"}
+nov 21, 2016 7:17:04 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:20.605"}
+nov 21, 2016 7:17:05 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:21.554"}
+nov 21, 2016 7:17:06 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:22.583"}
+nov 21, 2016 7:17:07 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:23.715"}
+nov 21, 2016 7:19:34 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:50.347"}
+nov 21, 2016 7:19:34 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:51.347"}
+nov 21, 2016 7:19:35 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:52.347"}
+nov 21, 2016 7:19:37 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:53.659"}
+nov 21, 2016 7:19:38 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:54.738"}
+nov 21, 2016 7:19:39 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:55.726"}
+nov 21, 2016 7:19:40 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:56.768"}
+nov 21, 2016 7:19:41 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:57.81"}
+nov 21, 2016 7:19:42 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:58.75"}
+nov 21, 2016 7:19:43 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:19:59.742"}
+nov 21, 2016 7:19:44 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:20:00.759"}
+nov 21, 2016 7:19:45 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:20:01.757"}
+nov 21, 2016 7:53:49 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:17.2"}
+nov 21, 2016 7:53:49 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:18.198"}
+nov 21, 2016 7:53:49 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:19.201"}
+nov 21, 2016 7:53:49 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:20.605"}
+nov 21, 2016 7:53:49 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:21.554"}
+nov 21, 2016 7:53:49 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:22.583"}
+nov 21, 2016 7:53:49 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:23.715"}
+nov 21, 2016 7:55:07 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:17.2"}
+nov 21, 2016 7:55:07 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:18.198"}
+nov 21, 2016 7:55:07 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:19.201"}
+nov 21, 2016 7:55:07 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:20.605"}
+nov 21, 2016 7:55:07 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:21.554"}
+nov 21, 2016 7:55:08 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:22.583"}
+nov 21, 2016 7:55:08 EM mainserver.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-11-21 19:17:23.715"}

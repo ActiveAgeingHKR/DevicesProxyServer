@@ -67,17 +67,22 @@ public class Server {
     }
 
     public static void postIncidentToMainServer(String jsonIncidentString) {
-        try {
-            HttpClient httpClient = HttpClientBuilder.create().build();
-            HttpPost post = new HttpPost(POST_INCIDENT_URL);
-            System.out.println("jsonIncidentString: " + jsonIncidentString);
-            StringEntity postString = new StringEntity(jsonIncidentString);
-            post.setEntity(postString);
-            post.setHeader("Content-type", "application/json");
-            httpClient.execute(post);
-        } catch (Exception e) {
-            e.printStackTrace();
+        if (isMainServerAlive) {
+            try {
+                HttpClient httpClient = HttpClientBuilder.create().build();
+                HttpPost post = new HttpPost(POST_INCIDENT_URL);
+                System.out.println("jsonIncidentString: " + jsonIncidentString);
+                StringEntity postString = new StringEntity(jsonIncidentString);
+                post.setEntity(postString);
+                post.setHeader("Content-type", "application/json");
+                httpClient.execute(post);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        } else {
+            Log.offline(jsonIncidentString);
         }
+        Log.archive(jsonIncidentString);
     }
 
     public static void heartbeatToMain() {
@@ -85,8 +90,9 @@ public class Server {
             HttpClient httpClient = HttpClientBuilder.create().build();
             HttpPost post = new HttpPost(HEARTBEAT_URL);
             HttpResponse response = httpClient.execute(post);
-            if(response.getStatusLine().getStatusCode() == 204){
+            if (response.getStatusLine().getStatusCode() == 204) {
                 isMainServerAlive = true;
+                Log.sendLoggedIncidents();
             }
         } catch (HttpHostConnectException e) {
             isMainServerAlive = false;
