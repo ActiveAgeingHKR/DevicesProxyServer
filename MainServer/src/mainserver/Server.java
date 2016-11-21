@@ -10,18 +10,24 @@ import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.io.IOException;
+import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
+import org.apache.http.conn.HttpHostConnectException;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.HttpClientBuilder;
 
 public class Server {
 
+    public static boolean isMainServerAlive = true;
     public static final int PORT = 12345;
     private ServerSocket serverSocket = null;
     private static Server server;
-    private final static String POST_INCIDENT_URL = 
-            "http://localhost:8080/MainServerREST/api/entities.incidents";
+    private final static String POST_INCIDENT_URL
+            = "http://localhost:8080/MainServerREST/api/entities.incidents";
+    private final static String HEARTBEAT_URL
+            = "http://localhost:8080/MainServerREST/api/entities.incidents/isalive";
 
     private Server() {
         try {
@@ -71,6 +77,21 @@ public class Server {
             httpClient.execute(post);
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    public static void heartbeatMain() {
+        try {
+            HttpClient httpClient = HttpClientBuilder.create().build();
+            HttpPost post = new HttpPost(HEARTBEAT_URL);
+            HttpResponse response = httpClient.execute(post);
+            if(response.getStatusLine().getStatusCode() == 204){
+                isMainServerAlive = true;
+            }
+        } catch (HttpHostConnectException e) {
+            isMainServerAlive = false;
+        } catch (Exception ex) {
+            ex.printStackTrace();
         }
     }
 }
