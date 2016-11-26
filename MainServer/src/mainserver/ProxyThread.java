@@ -5,6 +5,7 @@
  */
 package mainserver;
 
+import com.sun.jna.platform.win32.OaIdl;
 import java.net.Socket;
 
 /**
@@ -12,8 +13,8 @@ import java.net.Socket;
  * @author wasim
  */
 public class ProxyThread extends Thread {
-
-    private Socket socket ;
+    
+    private Socket socket;
 
     public ProxyThread(Socket socket) {
         super("ProxyThread");
@@ -22,7 +23,10 @@ public class ProxyThread extends Thread {
 
     public void run() {
         String jsonIncident = Server.getMessage(socket);
-        Server.postIncidentToMainServer(jsonIncident);
+        if (jsonIncident == null) {
+            System.out.println("Heartbeat from smartwatch");
+        } else {
+            Server.postIncidentToMainServer(jsonIncident);
+        }
     }
-
 }
