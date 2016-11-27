@@ -29,12 +29,21 @@
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
-              <Component id="portLabel" min="-2" max="-2" attributes="0"/>
-              <EmptySpace pref="28" max="32767" attributes="0"/>
-              <Component id="portNumber" min="-2" pref="84" max="-2" attributes="0"/>
-              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-              <Component id="listenButton" min="-2" pref="295" max="-2" attributes="0"/>
-              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="portLabel" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="portNumber" min="-2" pref="84" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="ChangePort" min="-2" pref="106" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="start" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="stop" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="lblStatus" alignment="0" min="-2" pref="301" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="62" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -43,11 +52,15 @@
           <Group type="102" alignment="0" attributes="0">
               <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="listenButton" alignment="3" min="-2" max="-2" attributes="0"/>
                   <Component id="portNumber" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
                   <Component id="portLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ChangePort" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="start" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="stop" alignment="3" min="-2" max="-2" attributes="0"/>
               </Group>
-              <EmptySpace pref="81" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblStatus" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="53" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -78,12 +91,33 @@
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="portNumberActionPerformed"/>
       </Events>
     </Component>
-    <Component class="javax.swing.JToggleButton" name="listenButton">
+    <Component class="javax.swing.JButton" name="ChangePort">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Listen"/>
+        <Property name="text" type="java.lang.String" value="Change Port"/>
       </Properties>
       <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="listenButtonActionPerformed"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ChangePortActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblStatus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Status"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="start">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Start"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="startActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="stop">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Stop"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="stopActionPerformed"/>
       </Events>
     </Component>
   </SubComponents>

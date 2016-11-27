@@ -35,15 +35,15 @@ public class Controller implements ActionListener {
     }
     
     private void listenButtonActionPerformed(ActionEvent event) {
-        JToggleButton listen = (JToggleButton)event.getSource();
-        if (listen.isSelected()) { 
-            // Start ProxyServer
-            gui.setPortAsLocked(true);
-            server.startServer(gui.getPortNumber());
-        } else {
-            // Close server
-            gui.setPortAsLocked(false);
-            server.closeServer(gui.getPortNumber());
-        }
+//        JToggleButton listen = (JToggleButton)event.getSource();
+//        if (listen.isSelected()) { 
+//            // Start ProxyServer
+//            gui.setPortAsLocked(true);
+//            server.startServer(Config.getPortNumber());
+//        } else {
+//            // Close server
+//            gui.setPortAsLocked(false);
+//            server.closeServer(Config.getPortNumber());
+//        }
     }
 }

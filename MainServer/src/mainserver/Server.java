@@ -18,33 +18,40 @@ import org.apache.http.conn.HttpHostConnectException;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.HttpClientBuilder;
 
-public class Server {
+public class Server
+{
 
-    public static boolean isMainServerAlive = true;
-    public static final int PORT = 12345;
+    public static boolean isMainServerAlive = true; 
+    public static  int PORT = Config.getPortNumber(); 
     private ServerSocket serverSocket = null;
+    
     private static Server server;
     private final static String POST_INCIDENT_URL
             = "http://localhost:8080/MainServerREST/api/entities.incidents";
     private final static String HEARTBEAT_URL
             = "http://localhost:8080/MainServerREST/api/entities.incidents/isalive";
 
-    private Server() {
+    private Server()
+    {
         try {
             serverSocket = new ServerSocket(PORT);
+            System.out.println("waiting for client at port:" + PORT);
+            
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public static synchronized Server getInstance() {
+    public static synchronized Server getInstance()
+    {
         if (server == null) {
             server = new Server();
         }
         return server;
     }
 
-    public Socket establishContact() {
+    public Socket establishContact()
+    {
         Socket clientSocket = null;
         try {
             clientSocket = serverSocket.accept();
@@ -54,7 +61,8 @@ public class Server {
         return clientSocket;
     }
 
-    public static String getMessage(Socket clientSocket) {
+    public static String getMessage(Socket clientSocket)
+    {
         String message = null;
         try {
             BufferedReader bufferedReaderInput = new BufferedReader(
@@ -66,7 +74,8 @@ public class Server {
         return message;
     }
 
-    public static void postIncidentToMainServer(String jsonIncidentString) {
+    public static void postIncidentToMainServer(String jsonIncidentString)
+    {
         if (isMainServerAlive) {
             try {
                 HttpClient httpClient = HttpClientBuilder.create().build();
@@ -85,7 +94,8 @@ public class Server {
         Log.archive(jsonIncidentString);
     }
 
-    public static void heartbeatToMain() {
+    public static void heartbeatToMain()
+    {
         try {
             HttpClient httpClient = HttpClientBuilder.create().build();
             HttpPost post = new HttpPost(HEARTBEAT_URL);
@@ -100,4 +110,6 @@ public class Server {
             ex.printStackTrace();
         }
     }
+    
+   
 }
