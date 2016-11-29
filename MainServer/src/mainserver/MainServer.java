@@ -15,25 +15,24 @@ import java.util.concurrent.TimeUnit;
  * @author wasim
  */
 public class MainServer {
-    
-     private Controller controller;
+
+    private Controller controller;
 
     public static final int HEARTBEAT_PERIOD = 30; //seconds
 
     public static void main(String[] args) throws IOException {
+       
         Gui gui = new Gui();
         gui.setVisible(true);
-        
-        
+
         //start heartbeat task to check if main server is alive
         ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
         scheduler.scheduleAtFixedRate(new HeartbeatToMainTask(), 0, HEARTBEAT_PERIOD, TimeUnit.SECONDS);
-        
-//        while (true) {
-//            new ProxyThread(Server.getInstance().establishContact()).start();
-//        }
+        /**
+         *
+         */
+
     }
-    
-  
+   
 
 }

@@ -1,9 +1,12 @@
 package mainserver;
 
+import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public final class Gui extends javax.swing.JFrame {
 
@@ -115,7 +118,7 @@ public final class Gui extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void portNumberActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_portNumberActionPerformed
-Config.getPortNumber();
+
     }//GEN-LAST:event_portNumberActionPerformed
 
     private void ChangePortActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_ChangePortActionPerformed
@@ -127,40 +130,43 @@ Config.getPortNumber();
             //fail to change the port number
             lblStatus.setText("Fail to change port number:" + Config.getPortNumber());
 
-        };
+        }
     }//GEN-LAST:event_ChangePortActionPerformed
 
     private void startActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_startActionPerformed
-        // TODO add your handling code here:
-        if (Config.setPortNumber(portNumber.getText())){
-            while (true) {
-                new ProxyThread(Server.getInstance().establishContact()).start();
+        
+          // TODO add your handling code here:
+        
+            lblStatus.setText("Existing port is :" + Config.getPortNumber());  
+            while(true){
+             new ProxyThread(Server.getInstance().establishContact()).start();
             }
-        }
+        
+           
+        
+        
 
     }//GEN-LAST:event_startActionPerformed
 
     private void stopActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_stopActionPerformed
-        // TODO add your handling code here:
-        try {
-			clientSocket.close();
-			serverSocket.close();
-			//bufferedReaderInput.close();
-		} catch (IOException e) {
-			System.out.println("Could not close");
-			System.exit(-1);
-		}
+        
+            // TODO add your handling code here:
+
+           
+            
+        
+       
     }//GEN-LAST:event_stopActionPerformed
 
 //    public void setPortAsLocked(boolean x) {
-//        listenButton.setSelected(x);
+//        listen.setSelected(x);
 //        portNumber.setEditable(!x);
 //
 //    }
 //
-//    public void registerButtonListener(ActionListener listen) {
-//        listenButton.addActionListener(listen);
-//
+//     public void registerButtonListener(ActionListener Listen) {
+//        listen.addActionListener(Listen);
+//       // sendButton.addActionListener(listen);
 //    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

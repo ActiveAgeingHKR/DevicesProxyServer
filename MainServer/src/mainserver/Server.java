@@ -24,7 +24,8 @@ public class Server
     public static boolean isMainServerAlive = true; 
     public static  int PORT = Config.getPortNumber(); 
     private ServerSocket serverSocket = null;
-    
+    BufferedReader bufferedReaderInput;
+    Socket clientSocket = null;
     private static Server server;
     private final static String POST_INCIDENT_URL
             = "http://localhost:8080/MainServerREST/api/entities.incidents";
@@ -110,6 +111,19 @@ public class Server
             ex.printStackTrace();
         }
     }
+    
+    public void closeConnection() {
+        // Socket clientSocket = null;
+		try {
+//			clientSocket.close();
+			serverSocket.close();
+//			bufferedReaderInput.close();
+		} catch (IOException e) {
+			System.out.println("Could not close");
+			System.exit(-1);
+		}
+                
+	}
     
    
 }
