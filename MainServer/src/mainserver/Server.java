@@ -11,48 +11,47 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.io.IOException;
 import org.apache.http.HttpResponse;
+import org.apache.http.auth.AuthScope;
+import org.apache.http.auth.UsernamePasswordCredentials;
+import org.apache.http.client.CredentialsProvider;
 import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.conn.HttpHostConnectException;
 import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.BasicCredentialsProvider;
 import org.apache.http.impl.client.HttpClientBuilder;
 
-public class Server
-{
+public class Server {
 
-    public static boolean isMainServerAlive = true; 
-    public static  int PORT = Config.getPortNumber(); 
+    public static boolean isMainServerAlive = true;
+    public static int PORT = Config.getPortNumber();
     private ServerSocket serverSocket = null;
     BufferedReader bufferedReaderInput;
     Socket clientSocket = null;
     private static Server server;
     private final static String POST_INCIDENT_URL
-            = "http://localhost:8080/MainServerREST/api/entities.incidents";
+            = "http://localhost:8080/MainServerREST/api/incidents";
     private final static String HEARTBEAT_URL
-            = "http://localhost:8080/MainServerREST/api/entities.incidents/isalive";
+            = "http://localhost:8080/MainServerREST/api/incidents/isalive";
 
-    private Server()
-    {
+    private Server() {
         try {
             serverSocket = new ServerSocket(PORT);
             System.out.println("waiting for client at port:" + PORT);
-            
+
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public static synchronized Server getInstance()
-    {
+    public static synchronized Server getInstance() {
         if (server == null) {
             server = new Server();
         }
         return server;
     }
 
-    public Socket establishContact()
-    {
+    public Socket establishContact() {
         Socket clientSocket = null;
         try {
             clientSocket = serverSocket.accept();
@@ -62,8 +61,7 @@ public class Server
         return clientSocket;
     }
 
-    public static String getMessage(Socket clientSocket)
-    {
+    public static String getMessage(Socket clientSocket) {
         String message = null;
         try {
             BufferedReader bufferedReaderInput = new BufferedReader(
@@ -75,11 +73,13 @@ public class Server
         return message;
     }
 
-    public static void postIncidentToMainServer(String jsonIncidentString)
-    {
+    public static void postIncidentToMainServer(String jsonIncidentString) {
         if (isMainServerAlive) {
             try {
-                HttpClient httpClient = HttpClientBuilder.create().build();
+                CredentialsProvider provider = new BasicCredentialsProvider();
+                UsernamePasswordCredentials credentials = new UsernamePasswordCredentials("EMPLOYEE", "password");
+                provider.setCredentials(AuthScope.ANY, credentials);
+                HttpClient httpClient = HttpClientBuilder.create().setDefaultCredentialsProvider(provider).build();
                 HttpPost post = new HttpPost(POST_INCIDENT_URL);
                 System.out.println("jsonIncidentString: " + jsonIncidentString);
                 StringEntity postString = new StringEntity(jsonIncidentString);
@@ -95,10 +95,13 @@ public class Server
         Log.archive(jsonIncidentString);
     }
 
-    public static void heartbeatToMain()
-    {
+    public static void heartbeatToMain() {
         try {
-            HttpClient httpClient = HttpClientBuilder.create().build();
+            CredentialsProvider provider = new BasicCredentialsProvider();
+            UsernamePasswordCredentials credentials = new UsernamePasswordCredentials("EMPLOYEE", "password");
+            provider.setCredentials(AuthScope.ANY, credentials);
+            HttpClient httpClient = HttpClientBuilder.create().setDefaultCredentialsProvider(provider).build();
+
             HttpPost post = new HttpPost(HEARTBEAT_URL);
             HttpResponse response = httpClient.execute(post);
             if (response.getStatusLine().getStatusCode() == 204) {
@@ -111,19 +114,18 @@ public class Server
             ex.printStackTrace();
         }
     }
-    
+
     public void closeConnection() {
         // Socket clientSocket = null;
-		try {
+        try {
 //			clientSocket.close();
-			serverSocket.close();
+            serverSocket.close();
 //			bufferedReaderInput.close();
-		} catch (IOException e) {
-			System.out.println("Could not close");
-			System.exit(-1);
-		}
-                
-	}
-    
-   
+        } catch (IOException e) {
+            System.out.println("Could not close");
+            System.exit(-1);
+        }
+
+    }
+
 }
