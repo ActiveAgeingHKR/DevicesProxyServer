@@ -5,7 +5,6 @@
  */
 package mainserver;
 
-import com.sun.jna.platform.win32.OaIdl;
 import java.net.Socket;
 
 /**
@@ -22,11 +21,14 @@ public class ProxyThread extends Thread {
     }
 
     public void run() {
-        String jsonIncident = Server.getMessage(socket);
-        if (jsonIncident == null) {
+        String message =  Server.getMessage(socket);
+        if (message == null) {
             System.out.println("Heartbeat from smartwatch");
-        } else {
-            Server.postIncidentToMainServer(jsonIncident);
+        } else if (message.length() > 14){ //json incident is guaranteed longer than 14 chars
+            Server.postIncidentToMainServer(message);
+        } else if (message.length() < 14){ //serial number is never longer than 14 chars
+            String customerID = Server.getCustomerID(message);
+            Server.sendMessage(customerID, socket);
         }
     }
 }
