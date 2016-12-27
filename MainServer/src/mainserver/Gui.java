@@ -137,12 +137,10 @@ public final class Gui extends javax.swing.JFrame {
         
           // TODO add your handling code here:
         
-            lblStatus.setText("Existing port is :" + Config.getPortNumber());  
-            while(true){
-             new ProxyThread(Server.getInstance().establishContact()).start();
-            }
-        
-           
+           // lblStatus.setText("Existing port is :" + Config.getPortNumber());
+        while(true){
+           new ProxyThread(Server.getInstance().establishContact()).start();
+        }
         
         
 
