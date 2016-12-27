@@ -12390,3 +12390,1693 @@ dec 26, 2016 8:37:30 EM mainserver.Log archive
 INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:21.619"}
 dec 26, 2016 8:37:31 EM mainserver.Log archive
 INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:22.553"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:25.909"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:43.192"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:23.612"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:24.548"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:31.186"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:37.19"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:43.633"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:19.19"}
+dec 27, 2016 4:09:32 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:25.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:07.187"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:37.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:01.192"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:55.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:38:49.186"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:32.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:13.62"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:50.192"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:26.193"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:20.187"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:44.191"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:38.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:07.188"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:06.188"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:58.526"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:56.194"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:49.191"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:31.191"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:13.193"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:55.191"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:13.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:01.191"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:43.191"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:07.187"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 94.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:37.191"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:25.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:43.19"}
+dec 27, 2016 4:09:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:55.19"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:49.187"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:13.191"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:19.191"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:40:01.191"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:44.541"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:39:31.19"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:51.194"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:25.193"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:50.194"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:45.194"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:07.191"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:37.195"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:38.209"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:13.195"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:50.193"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:31.007"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:19.194"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:01.801"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:07.19"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:07.19"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:25.795"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:56.191"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:19.192"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:24.831"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:30.19"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:37.956"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:20.54"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:01.193"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:37.19"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:01.531"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:25.194"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 95.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:06.198"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:01.757"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:31.195"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:00.192"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:32.195"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:54.192"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:07.189"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:56.193"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:55.192"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:01.194"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:38.193"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:56.193"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:44.194"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:24.192"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:13.192"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:20.098"}
+dec 27, 2016 4:09:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:01.191"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:50.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:29.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 95.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:07.459"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:42.191"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 94.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:11.784"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:49.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:23.191"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 95.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:08.362"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:30.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:36.191"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:36.191"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:46:26.189"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:37.274"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:43.189"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:18.189"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:18.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:00.191"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:48.193"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 95.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:45:05.63"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:54.19"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:24.193"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:30.189"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:41.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:24.855"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:06.61"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:03.47"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:17.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:35.19"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:04.475"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:00.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:48.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:05.777"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:41.947"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:30.19"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:01.144"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:48.188"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:11.188"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:12.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:44:06.188"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:01.424"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:43:02.466"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:00.615"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:42.189"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:54.191"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:36.194"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:24.192"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:18.188"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:59.528"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:42:12.19"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:41:57.579"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:53.516"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:51.48"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:55.727"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:54.455"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:50.511"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:46.362"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:52.453"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:48.53"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:42.223"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:43.261"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:49.499"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:44.326"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:45.307"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:47.39"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:40.189"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:35.27"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:37.237"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:41.252"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:39.319"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:38.308"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:28.547"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:24.978"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:36.246"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:29.713"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:26.507"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:18.877"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:23.725"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:21.661"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:09.236"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:19.919"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:15.794"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:17.866"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:07.195"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:01.198"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:16.797"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:49.195"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:43.198"}
+dec 27, 2016 4:09:35 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:11.15"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:44.332"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:55.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:31.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:55.195"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:37.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:25.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:13.199"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:42.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:19.195"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:48.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:49.042"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:30.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:53.863"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:07.195"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:12.768"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 94.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:55.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:01:01.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:12.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:36.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:00.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:49.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:24.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:13.594"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:06.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:52.923"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:25.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:49.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:43.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:19.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:00:18.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:37.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:07.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:51.398"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:51.861"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:13.88"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:26.143"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:13.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:31.193"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:31.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:56.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:59:01.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:23.912"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:21.8"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:37.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:19.557"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:22.779"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 90.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:43.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:25.047"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:20.762"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:07.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:01.198"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:18.539"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:55.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:13.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:18.112"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:25.193"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:58:14.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:49.199"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 93.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:37.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:32.193"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 93.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:31.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 93.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:43.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 90.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:19.805"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:38.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:19.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:56.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:50.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:07.194"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:26.765"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:57:01.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:44.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:26.197"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:20.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:14.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 96.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:51.75"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 93.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:01.901"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:02.878"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 95.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:50.72"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:08.193"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 94.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:01.196"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:56:04.061"}
+dec 27, 2016 4:09:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 104.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:08.198"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 96.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:57.193"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 90.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:32.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 90.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:44.193"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 104.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:01.619"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 102.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:20.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 95.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:50.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 104.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:14.198"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 104.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:01.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 98.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:26.197"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 109.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:49.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 108.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:37.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 105.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:55.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 107.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:31.193"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 108.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:43.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 104.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:17.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 105.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:18.621"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 105.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:21.441"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Customer fell. Accelerometer data: 31.364042","inSeverity":"MILD","inTime":"2016-12-26 20:54:20.279"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 98.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:00.193"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 105.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:20.308"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 106.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:25.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Customer fell. Accelerometer data: 22.266075","inSeverity":"MILD","inTime":"2016-12-26 20:54:20.68"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 102.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:13.693"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Customer fell. Accelerometer data: 20.06341","inSeverity":"MILD","inTime":"2016-12-26 20:54:10.317"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:48.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:36.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:30.195"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:18.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:06.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 95.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:54.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:12.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:42.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 102.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:12.074"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 100.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:06.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 94.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:48.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 102.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:54:10.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 92.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:36.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:18.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:47.402"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Customer fell. Accelerometer data: 18.497602","inSeverity":"MILD","inTime":"2016-12-26 20:54:10.3"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:42.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:12.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:19.195"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:32.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 93.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:06.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:19.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:24.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:54.191"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 93.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:00.195"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:45.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:31.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:53:13.468"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:00.809"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:24.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:40.27"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:30.195"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 90.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:54.195"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:01.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:48.898"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:52:00.195"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:55.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:50.1"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:51.498"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:07.22"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:57.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:46.416"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:39.368"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:24.19"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:37.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:25.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:01.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:02.112"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:13.195"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:51:38.191"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:43.193"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:19.192"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:44.19"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:44.19"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:19.196"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:48:13.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:13.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:47:13.19"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:49.193"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:07.191"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:31.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:39.191"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:32.899"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:25.194"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:50:01.193"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:49:32.191"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:32.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:25.365"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:44.201"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:26.514"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:07.201"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:43.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:31.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:26.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:01.205"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:14.2"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:09.862"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:20.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:55.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:49.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:08.716"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:37.205"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:01.649"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:07.201"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:18.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:48.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:12.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:24.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:54.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:06.2"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:16:00.202"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:42.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:36.205"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:24.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:30.204"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:12.202"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:18.205"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:06.2"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:15:00.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 98.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:42.362"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:28.934"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:48.2"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 100.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:37.209"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 105.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:40.25"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:54.203"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 108.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:41.313"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:27.132"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:22.314"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:30.921"}
+dec 27, 2016 4:09:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:24.493"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:15.944"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:19.262"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:21.43"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:23.451"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:17.947"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:58.967"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:20.409"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:05.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:16.945"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:31.501"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:11.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:41.256"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:12.995"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:48.032"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:50.075"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:57.158"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:54.031"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:58.018"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:49.021"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:56.07"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:55.096"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:44.836"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:51.017"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:52.959"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:51.997"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:42.257"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:19.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:19.203"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:37.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:55.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:46.611"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:39.304"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:43.5"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:38.341"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:40.319"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:32.555"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:07.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:36.292"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:07.737"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:37.322"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:01.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:28.828"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:30.463"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:51.209"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:01.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:29.698"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:44.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:13.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:13:25.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:31.203"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:43.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:25.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:56.011"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:01.799"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:50.246"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:07.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:13.203"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:31.919"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:55.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:20.51"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:12:49.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:19.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:43.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:49.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:43.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:12.698"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:25.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:01.436"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:31.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:37.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:13.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:13.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:13.203"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:19.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:07.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:32.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:01.98"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:07.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:49.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:37.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:26.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:50.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:11:01.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:08.83"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:56.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:38.185"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:32.377"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:37.185"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:10.356"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:43.197"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:07.197"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:01.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:55.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 91.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:21.254"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:10:38.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:36.197"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:55.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 89.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:18.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:11.393"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:42.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:50.437"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 93.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:22.159"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:31.375"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:07.024"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:01.203"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:09:08.148"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:31.102"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:49.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:24.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:28.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:30.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:01.058"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:12.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:48.205"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:19.197"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:08:00.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 86.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:24.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:54.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:24.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:42.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:52.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 85.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:30.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 56.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:22.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:16.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:59.894"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:12.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:36.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:55.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:59.078"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:58.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:00.994"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:18.203"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:07:06.197"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:34.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 88.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:36.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:30.196"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:49.197"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 57.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:46.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:06:40.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:06.191"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:07.346"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:18.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:05:05.015"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:20.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:07.197"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:50.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:58.398"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:56.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:44.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:38.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:56.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:32.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:01.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:13.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:50.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:04:26.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:44.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:38.198"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:32.196"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 84.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:27.772"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:14.195"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:26.199"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:20.2"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:08.964"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:07.195"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:08.064"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:57.746"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:09.893"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:01.195"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:03:02.362"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:02:56.896"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:07.202"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:01.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:57.514"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:25.205"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:31.206"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:49.219"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:45.769"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:19.205"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:49.206"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:31.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:48.224"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:25.207"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:37.205"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:47.176"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:55.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:13.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:43.773"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:44.768"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:43.206"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:43.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:56.934"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:13.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:37.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:56.083"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:01.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:24.316"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:55.205"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:49.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:20:19.205"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:24.206"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:56.205"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:20.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:56.9"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:18:13.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:50.204"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:17:38.206"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:19:07.201"}
+dec 27, 2016 4:09:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:50.168"}
+dec 27, 2016 4:09:39 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:51.129"}
+dec 27, 2016 4:09:40 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:52.17"}
+dec 27, 2016 4:09:41 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:53.21"}
+dec 27, 2016 4:09:43 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:54.272"}
+dec 27, 2016 4:09:43 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:55.187"}
+dec 27, 2016 4:09:45 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:56.249"}
+dec 27, 2016 4:09:45 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:57.172"}
+dec 27, 2016 4:09:46 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:58.148"}
+dec 27, 2016 4:09:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:10:59.292"}
+dec 27, 2016 4:09:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:00.171"}
+dec 27, 2016 4:09:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:01.18"}
+dec 27, 2016 4:09:50 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:02.241"}
+dec 27, 2016 4:09:52 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:03.301"}
+dec 27, 2016 4:09:52 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:04.22"}
+dec 27, 2016 4:09:53 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:05.244"}
+dec 27, 2016 4:09:54 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:06.204"}
+dec 27, 2016 4:10:01 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:12.471"}
+dec 27, 2016 4:10:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:13.627"}
+dec 27, 2016 4:10:03 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:14.67"}
+dec 27, 2016 4:10:04 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:15.579"}
+dec 27, 2016 4:10:05 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:16.61"}
+dec 27, 2016 4:10:05 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 87.0","inSeverity":"NORMAL","inTime":"2016-12-26 20:55:38.197"}
+dec 27, 2016 4:10:06 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:17.579"}
+dec 27, 2016 4:10:07 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:18.745"}
+dec 27, 2016 4:10:07 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-26 21:14:25.503"}
+dec 27, 2016 4:10:08 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:19.742"}
+dec 27, 2016 4:10:09 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:20.757"}
+dec 27, 2016 4:10:10 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:21.78"}
+dec 27, 2016 4:10:17 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:28.471"}
+dec 27, 2016 4:10:21 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:33.196"}
+dec 27, 2016 4:10:23 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:34.423"}
+dec 27, 2016 4:10:24 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:35.337"}
+dec 27, 2016 4:10:25 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:36.394"}
+dec 27, 2016 4:10:26 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:37.398"}
+dec 27, 2016 4:10:27 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:38.382"}
+dec 27, 2016 4:10:28 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:39.63"}
+dec 27, 2016 4:10:29 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:40.495"}
+dec 27, 2016 4:10:30 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:41.569"}
+dec 27, 2016 4:10:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:11:42.504"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:00.47"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:00.887"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:01.923"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:06.47"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:18.472"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:30.47"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:12.473"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:24.472"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:37.586"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:36.473"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:42.469"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:48.474"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:00.471"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:06.469"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:12:54.473"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:12.473"}
+dec 27, 2016 4:12:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:13.451"}
+dec 27, 2016 4:12:04 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:15.367"}
+dec 27, 2016 4:12:06 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:17.341"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:28.347"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:29.512"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:40.473"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:34.469"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:46.477"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:52.474"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:58.472"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 80.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:59.046"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:00.903"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:13:59.895"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:05.254"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:01.95"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:07.301"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:08.703"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:09.619"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 0.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:06.26"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:10.782"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:11.724"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:12.762"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:14.767"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:16.771"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:15.801"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:18.85"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:13.7"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:21.757"}
+dec 27, 2016 4:18:48 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:17.842"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:20.734"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:19.755"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:23.77"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 59.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:25.78"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:22.733"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:29.209"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:31.26"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:44.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:32.16"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 59.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:28.14"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:50.473"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:02.442"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:55.16"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:57.327"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:24.779"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:01.47"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:30.193"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:25.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:49.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:14.473"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:55.476"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:02.209"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:31.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:37.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:43.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:07.47"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:54.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:19.473"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:14:56.393"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:15:13.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:08.471"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:45.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:01.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:17.401"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:15.393"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:16.462"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:43.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:25.471"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:02.412"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:33.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:51.476"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:19.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:27.471"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:20.487"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:06.142"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:31.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:57.476"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:07.471"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:25.473"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:01.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:07.471"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:13.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:31.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:56.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:03.22"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:01.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:50.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:07.314"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 65.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:19.476"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:38.472"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:13.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:03.35"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:49.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 64.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:44.473"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:55.473"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:32.364"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:02.405"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:01.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:39.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:17:37.476"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:16:22.168"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:18:20.116"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:01.138"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:00.003"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:50.248"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:56.13"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:51.235"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:05.185"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:25.473"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:43.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 63.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:37.475"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:59.061"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:31.477"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 70.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:57.92"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:49.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 62.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:13.472"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 61.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:04.18"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:19.474"}
+dec 27, 2016 4:18:49 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 60.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:19:02.21"}
+dec 27, 2016 4:18:50 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:02.018"}
+dec 27, 2016 4:18:51 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:03.106"}
+dec 27, 2016 4:18:52 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:04.086"}
+dec 27, 2016 4:18:53 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:05.061"}
+dec 27, 2016 4:18:55 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:06.409"}
+dec 27, 2016 4:18:56 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:07.389"}
+dec 27, 2016 4:18:57 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:08.526"}
+dec 27, 2016 4:18:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:09.58"}
+dec 27, 2016 4:18:59 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:10.534"}
+dec 27, 2016 4:19:00 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:11.526"}
+dec 27, 2016 4:19:01 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:12.596"}
+dec 27, 2016 4:19:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:13.595"}
+dec 27, 2016 4:19:03 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:14.475"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:19.678"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:20.72"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:21.725"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:22.926"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:23.761"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:25.729"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:26.734"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:24.798"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:38.476"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:32.48"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:50.475"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 73.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:56.473"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:20:44.475"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:00.472"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:00.549"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 72.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:05.999"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:03.769"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:04.734"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:17.477"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:01.519"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:23.475"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 71.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:11.472"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 66.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:29.477"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:35.474"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:42.353"}
+dec 27, 2016 4:20:31 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:41.475"}
+dec 27, 2016 4:20:36 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:47.473"}
+dec 27, 2016 4:20:37 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 69.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:48.774"}
+dec 27, 2016 4:20:38 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:49.764"}
+dec 27, 2016 4:20:39 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 67.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:50.69"}
+dec 27, 2016 4:20:40 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 68.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:51.845"}
+dec 27, 2016 4:20:57 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 74.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:21:59.104"}
+dec 27, 2016 4:20:57 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:00.111"}
+dec 27, 2016 4:20:57 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 76.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:02.208"}
+dec 27, 2016 4:20:57 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 75.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:01.213"}
+dec 27, 2016 4:20:57 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:04.056"}
+dec 27, 2016 4:20:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:03.176"}
+dec 27, 2016 4:20:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:05.219"}
+dec 27, 2016 4:20:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:06.087"}
+dec 27, 2016 4:20:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 77.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:07.152"}
+dec 27, 2016 4:20:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:08.121"}
+dec 27, 2016 4:20:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:09.183"}
+dec 27, 2016 4:20:58 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:10.098"}
+dec 27, 2016 4:20:59 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:11.131"}
+dec 27, 2016 4:21:00 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:12.204"}
+dec 27, 2016 4:21:01 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:13.106"}
+dec 27, 2016 4:21:02 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:14.082"}
+dec 27, 2016 4:21:33 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:19.212"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:20.172"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 78.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:21.085"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:22.225"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:23.192"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:24.198"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:25.098"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:26.428"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 79.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:31.497"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 81.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:37.478"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:43.476"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:44.357"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 83.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:45.241"}
+dec 27, 2016 4:21:34 EM utilities.Log archive
+INFO: {"customersCuId":{"cuId":1},"inNotes":"Heart rate: 82.0","inSeverity":"NORMAL","inTime":"2016-12-27 16:22:46.184"}

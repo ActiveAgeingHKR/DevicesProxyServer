@@ -5,6 +5,9 @@
  */
 package mainserver;
 
+import utilities.Log;
+import entities.DevicesCustomers;
+import gui.Config;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import java.io.BufferedReader;
@@ -30,7 +33,6 @@ import org.apache.http.impl.client.HttpClientBuilder;
 public class Server {
 
     public static boolean isMainServerAlive = true;
-    public static int PORT = Config.getPortNumber();
     private ServerSocket serverSocket = null;
     BufferedReader bufferedReaderInput;
     Socket clientSocket = null;
@@ -44,9 +46,7 @@ public class Server {
 
     private Server() {
         try {
-            serverSocket = new ServerSocket(PORT);
-            System.out.println("waiting for client at port:" + PORT);
-
+            serverSocket = new ServerSocket(Config.getPortNumber());
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -62,6 +62,7 @@ public class Server {
     public Socket establishContact() {
         Socket clientSocket = null;
         try {
+            System.out.println("Waiting for client at port:" + Config.getPortNumber());
             clientSocket = serverSocket.accept();
         } catch (Exception e) {
             e.printStackTrace();
@@ -96,6 +97,7 @@ public class Server {
     public void closeConnection() {
         try {
             serverSocket.close();
+            server = null;
         } catch (IOException e) {
             System.out.println("Could not close");
             System.exit(-1);
@@ -173,7 +175,7 @@ public class Server {
                 byte[] responseBody = outstream.toByteArray();
                 String str = new String(responseBody, "UTF-8");
                 Gson gson = new Gson();
-                customerID =  gson.fromJson(str, DevicesCustomers.class).getCustomersCuId().getCuId();
+                customerID = gson.fromJson(str, DevicesCustomers.class).getCustomersCuId().getCuId();
             }
         } catch (Exception e) {
             e.printStackTrace();

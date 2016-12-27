@@ -5,6 +5,9 @@
  */
 package mainserver;
 
+import utilities.HeartbeatToMainTask;
+import gui.Gui;
+import gui.Controller;
 import java.io.IOException;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;

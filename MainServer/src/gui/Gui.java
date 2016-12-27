@@ -1,26 +1,21 @@
-package mainserver;
+package gui;
 
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.io.IOException;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import mainserver.ProxyThread;
+import mainserver.Server;
 
 public final class Gui extends javax.swing.JFrame {
 
-    private Gui gui;
-    private MainServer server;
-    ServerSocket serverSocket = null;
-	Socket clientSocket = null;
+    private final String WAITING_THREAD = "ClientWaitingThread";
+    private final String PROXY_THREAD = "ProxyThread";
+    private final ThreadGroup ALL_THREADS = new ThreadGroup("AllThreads");
+    private boolean isWaitingForConnections = true;
 
     public Gui() {
         super("Proxy Server GUI");
         initComponents();
-        //setPortAsLocked(false);
         setLocationRelativeTo(null);
         setVisible(true);
+        portNumber.setText(String.valueOf(Config.getPortNumber()));
     }
 
     /**
@@ -124,50 +119,34 @@ public final class Gui extends javax.swing.JFrame {
     private void ChangePortActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_ChangePortActionPerformed
     {//GEN-HEADEREND:event_ChangePortActionPerformed
         if (Config.setPortNumber(portNumber.getText())) {
-            //TODO: stop server and then start it again to read the new port number or leave for the new buttons
             lblStatus.setText("Port has been Changed to:" + Config.getPortNumber());
         } else {
-            //fail to change the port number
             lblStatus.setText("Fail to change port number:" + Config.getPortNumber());
-
         }
     }//GEN-LAST:event_ChangePortActionPerformed
 
     private void startActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_startActionPerformed
-        
-          // TODO add your handling code here:
-        
-            lblStatus.setText("Existing port is :" + Config.getPortNumber());  
-            while(true){
-             new ProxyThread(Server.getInstance().establishContact()).start();
+        isWaitingForConnections = true;
+        Thread thread = new Thread(ALL_THREADS, new Runnable() {
+            @Override
+            public void run() {
+                while (isWaitingForConnections) {
+                    ProxyThread proxyThread = new ProxyThread(ALL_THREADS, PROXY_THREAD, Server.getInstance().establishContact());
+                    proxyThread.start();
+                }
             }
-        
-           
-        
-        
-
+        }, WAITING_THREAD);
+        thread.start();
+        lblStatus.setText("Proxy waiting for connection on port: " + Config.getPortNumber());
     }//GEN-LAST:event_startActionPerformed
 
     private void stopActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_stopActionPerformed
-        
-            // TODO add your handling code here:
-
-           
-            
-        
-       
+        isWaitingForConnections = false;
+        ALL_THREADS.interrupt();
+        Server.getInstance().closeConnection();
+        lblStatus.setText("Proxy stopped waiting for new connections.");
     }//GEN-LAST:event_stopActionPerformed
 
-//    public void setPortAsLocked(boolean x) {
-//        listen.setSelected(x);
-//        portNumber.setEditable(!x);
-//
-//    }
-//
-//     public void registerButtonListener(ActionListener Listen) {
-//        listen.addActionListener(Listen);
-//       // sendButton.addActionListener(listen);
-//    }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton ChangePort;
