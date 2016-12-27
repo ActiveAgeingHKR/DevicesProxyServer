@@ -12,12 +12,15 @@ import java.io.IOException;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
+import javax.swing.JButton;
 
 /**
  *
  * @author wasim
  */
 public class MainServer {
+
+    
 
     private Controller controller;
 
@@ -27,6 +30,8 @@ public class MainServer {
        
         Gui gui = new Gui();
         gui.setVisible(true);
+        
+        
 
         //start heartbeat task to check if main server is alive
         ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
@@ -34,6 +39,7 @@ public class MainServer {
         /**
          *
          */
+        
 
     }
    
