@@ -6,29 +6,16 @@
 package mainserver;
 
 import utilities.Log;
-import entities.DevicesCustomers;
 import gui.Config;
-import com.google.gson.Gson;
-import com.google.gson.JsonObject;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.ByteArrayOutputStream;
 import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
-import org.apache.http.HttpResponse;
-import org.apache.http.auth.AuthScope;
-import org.apache.http.auth.UsernamePasswordCredentials;
-import org.apache.http.client.CredentialsProvider;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.client.methods.HttpPost;
 import org.apache.http.conn.HttpHostConnectException;
-import org.apache.http.entity.StringEntity;
-import org.apache.http.impl.client.BasicCredentialsProvider;
-import org.apache.http.impl.client.HttpClientBuilder;
+import org.panos.SSLConnection;
 
 public class Server {
 
@@ -37,12 +24,10 @@ public class Server {
     BufferedReader bufferedReaderInput;
     Socket clientSocket = null;
     private static Server server;
-    private final static String POST_INCIDENT_URL
-            = "http://localhost:8080/MainServerREST/api/incidents";
-    private final static String HEARTBEAT_URL
-            = "http://localhost:8080/MainServerREST/api/incidents/isalive";
-    private final static String GET_CUSTOMER_ID_URL
-            = "http://localhost:8080/MainServerREST/api/devicescustomers/";
+    private final static String SERVER_URL = "https://localhost:8181/MainServerREST/api/";
+    private final static String POST_INCIDENT_SERVICE = "incidents";
+    private final static String HEARTBEAT_SERVICE = "incidents/isalive";
+    private final static String GET_CUSTOMER_ID_SERVICE = "devicescustomers/id";
 
     private Server() {
         try {
@@ -107,16 +92,9 @@ public class Server {
     public static void postIncidentToMainServer(String jsonIncidentString) {
         if (isMainServerAlive) {
             try {
-                CredentialsProvider provider = new BasicCredentialsProvider();
-                UsernamePasswordCredentials credentials = new UsernamePasswordCredentials("EMPLOYEE", "password");
-                provider.setCredentials(AuthScope.ANY, credentials);
-                HttpClient httpClient = HttpClientBuilder.create().setDefaultCredentialsProvider(provider).build();
-                HttpPost post = new HttpPost(POST_INCIDENT_URL);
-                System.out.println("jsonIncidentString: " + jsonIncidentString);
-                StringEntity postString = new StringEntity(jsonIncidentString);
-                post.setEntity(postString);
-                post.setHeader("Content-type", "application/json");
-                httpClient.execute(post);
+                SSLConnection connection = new SSLConnection(SERVER_URL);
+                String response = connection.doPost(POST_INCIDENT_SERVICE, jsonIncidentString, SSLConnection.CONTENT_TYPE.JSON, SSLConnection.ACCEPT_TYPE.TEXT, SSLConnection.USER_MODE.EMPLOYEE);
+                System.out.println("POST INCIDENT response code: " + response + " jsonIncidentString: " + jsonIncidentString);
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -128,14 +106,12 @@ public class Server {
 
     public static void heartbeatToMain() {
         try {
-            CredentialsProvider provider = new BasicCredentialsProvider();
-            UsernamePasswordCredentials credentials = new UsernamePasswordCredentials("EMPLOYEE", "password");
-            provider.setCredentials(AuthScope.ANY, credentials);
-            HttpClient httpClient = HttpClientBuilder.create().setDefaultCredentialsProvider(provider).build();
-
-            HttpPost post = new HttpPost(HEARTBEAT_URL);
-            HttpResponse response = httpClient.execute(post);
-            if (response.getStatusLine().getStatusCode() == 204) {
+            
+            SSLConnection connection = new SSLConnection(SERVER_URL);
+            int responseCode = Integer.valueOf(connection.doPost(HEARTBEAT_SERVICE, 
+                    "", SSLConnection.CONTENT_TYPE.JSON, SSLConnection.ACCEPT_TYPE.TEXT, 
+                    SSLConnection.USER_MODE.EMPLOYEE));
+            if (responseCode == 204) {
                 System.out.println("MainServerREST is ALIVE");
                 isMainServerAlive = true;
                 Log.sendLoggedIncidents();
@@ -148,39 +124,14 @@ public class Server {
     }
 
     public static String getCustomerID(String deviceID) {
-        String customerID = null;
+        String response = null;
         try {
-            CredentialsProvider provider = new BasicCredentialsProvider();
-            UsernamePasswordCredentials credentials = new UsernamePasswordCredentials("ADMIN", "password");
-            provider.setCredentials(AuthScope.ANY, credentials);
-            HttpClient httpClient = HttpClientBuilder.create().setDefaultCredentialsProvider(provider).build();
-            HttpGet get = new HttpGet(GET_CUSTOMER_ID_URL + deviceID);
-            System.out.println("deviceID: " + deviceID);
-            get.setHeader("Content-type", "application/json");
-            HttpResponse response = httpClient.execute(get);
-            customerID = String.valueOf(extractCustomerId(response));
+            SSLConnection connection = new SSLConnection(SERVER_URL);
+            response = connection.doGet(GET_CUSTOMER_ID_SERVICE, deviceID, SSLConnection.CONTENT_TYPE.JSON, SSLConnection.ACCEPT_TYPE.TEXT, SSLConnection.USER_MODE.ADMIN);
+            System.out.println("customerID: " + response);
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return customerID;
-    }
-
-    public static int extractCustomerId(HttpResponse response) {
-        System.out.println(response.getEntity());
-        int customerID = -1;
-        try {
-            ByteArrayOutputStream outstream = new ByteArrayOutputStream();
-            if (response != null) {
-                response.getEntity().writeTo(outstream);
-                byte[] responseBody = outstream.toByteArray();
-                String str = new String(responseBody, "UTF-8");
-                Gson gson = new Gson();
-                customerID = gson.fromJson(str, DevicesCustomers.class).getCustomersCuId().getCuId();
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        return customerID;
-
+        return response;
     }
 }
