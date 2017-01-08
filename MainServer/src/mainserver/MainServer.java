@@ -5,6 +5,7 @@
  */
 package mainserver;
 
+import arduino.SerialTest;
 import utilities.HeartbeatToMainTask;
 import gui.Gui;
 import gui.Controller;
@@ -39,7 +40,19 @@ public class MainServer {
         /**
          *
          */
-        
+        SerialTest main = new SerialTest();
+        main.initialize();
+        Thread t = new Thread() {
+            public void run() {
+				
+                try {
+                    Thread.sleep(1000000);
+                } catch (InterruptedException ie) {
+                }
+            }
+        };
+        t.start();
+        System.out.println("Recieving signal from arduino");
 
     }
    
