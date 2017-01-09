@@ -30,18 +30,12 @@ public class MainServer {
        
         Gui gui = new Gui();
         gui.setVisible(true);
-        
-        
 
         //start heartbeat task to check if main server is alive
         ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
         scheduler.scheduleAtFixedRate(new HeartbeatToMainTask(), 0, HEARTBEAT_PERIOD, TimeUnit.SECONDS);
-        /**
-         *
-         */
-        
 
+        ArduinoThread arduinoThread = new ArduinoThread();
+        arduinoThread.start();
     }
-   
-
 }
